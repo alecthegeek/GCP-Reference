@@ -19,7 +19,7 @@
 - can assign IAM roles to service accounts
 - Keys can be created external to GCP — you are responsible for all key management
 
-![Identify%20Access%20Management/Untitled.png](Identify%20Access%20Management/Untitled.png)
+![Use a Service Account in an Application](UserServiceAccountInApp.png)
 
 # OAuth 2.0
 
