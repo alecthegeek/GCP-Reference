@@ -1,6 +1,6 @@
 # Application Development
 
-Can use various GCP services to run applictions
+Can use various GCP services to run applications
 
 - Computational Resources
     1. Compute Engine — VM in the cloud
@@ -9,6 +9,7 @@ Can use various GCP services to run applictions
         1. Standard (limited language runtimes)
         2. Flexible (use whatever language runtime you want)
     4. Cloud Functions
+    5. [Cloud Run](Application%20Development/GCP%20Cloud%20Run.md)
 
 [GCP APIs](Application%20Development/GCP%20APIs.md)
 
